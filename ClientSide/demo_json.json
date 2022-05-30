@@ -1,0 +1,12 @@
+{
+  "`User": {
+    "01": {
+      "Name": "Raluca",
+      "Password": "1234"
+    },
+    "02": {
+      "Name": "Ioana",
+      "Password": "1234"
+    }
+  }
+}

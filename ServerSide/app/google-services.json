@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "199954899939",
+    "firebase_url": "https://eatup-d2d4e-default-rtdb.firebaseio.com",
+    "project_id": "eatup-d2d4e",
+    "storage_bucket": "eatup-d2d4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199954899939:android:b2b966c5dacc407ca0b6d6",
+        "android_client_info": {
+          "package_name": "com.example.eatup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199954899939-tkr5cqujf7mo1f62c1sfc17r4qao0li2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eatup",
+            "certificate_hash": "36a593fc81f33e9517d3d71da882738e0f6b8440"
+          }
+        },
+        {
+          "client_id": "199954899939-grs86p9onhn74ius9nl3e6uk1qklrinu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8iZxCuVSupFNLzzcXpGPvSDgtz0SBnH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199954899939-grs86p9onhn74ius9nl3e6uk1qklrinu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199954899939:android:774638997d8e64caa0b6d6",
+        "android_client_info": {
+          "package_name": "com.example.server"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199954899939-grs86p9onhn74ius9nl3e6uk1qklrinu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8iZxCuVSupFNLzzcXpGPvSDgtz0SBnH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199954899939-grs86p9onhn74ius9nl3e6uk1qklrinu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,63 @@
+
+{
+  "Category": {
+    "10": {
+      "Name": "Deserts",
+      "Image": "https://assets.epicurious.com/photos/5aa012445d9a6873cf20d4ae/4:6/w_2221,h_3332,c_limit/salted-caramel-chocolate-tart-recipe-BA-030718.jpg"
+    },
+    "01": {
+      "Name": "Pizza",
+      "Image": "https://pizzeria-volare.ro/wp-content/uploads/revslider/steweysfullslider/5.jpg"
+    },
+    "02": {
+      "Name": "Soups",
+      "Image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/homemade-pumpkin-soup-royalty-free-image-1571855802.jpg"
+    },
+    "03": {
+      "Name": "Sushi",
+      "Image": "https://www.blondelish.com/wp-content/uploads/2020/11/California-Rolls-Recipe-Sushi-Rice-Recipe-11.jpg"
+    },
+    "04": {
+      "Name": "Hamburgers and Fries",
+      "Image": "https://t3.ftcdn.net/jpg/03/03/57/06/360_F_303570636_xrCrT8AIOYkC9cO1xPXEpo9Dwob5mayZ.jpg"
+    },
+    "05": {
+      "Name": "Pasta",
+      "Image": "https://cafel2l.com/wp-content/uploads/2018/02/Red-Sauce-Pasta-Veg.jpg"
+    },
+    "06": {
+      "Name": "Mexican Food",
+      "Image": "https://www.takeaway.com/ro/foodwiki/uploads/sites/10/2019/09/mexican_cuisine_2-1440x600.jpg"
+    },
+    "07": {
+      "Name": "Fish and Sea Food",
+      "Image": "https://info.ehl.edu/hubfs/Blog-EHL-Insights/Blog-Header-EHL-Insights/AdobeStock_330947966.jpeg"
+    },
+    "08": {
+      "Name": "Chicken",
+      "Image": "https://assets.epicurious.com/photos/5732526f1877f76a0e20831c/master/pass/EP_05102016_PeruvianStyleRoastChicken_recipe_.jpg"
+    },
+    "09": {
+      "Name": "Steak",
+      "Image": "https://www.delonghi.com/Global/recipes/multifry/409.jpg"
+    }
+  },
+  "User" : {
+    "01" : {
+      "Name" : "Raluca",
+      "Password" : "1234"
+    },
+    "02" : {
+      "Name" : "Ioana",
+      "Password" : "12345"
+    },
+    "03" : {
+      "Name" : "George",
+      "Password" : "123456"
+    },
+    "04" : {
+      "name" : "JLO",
+      "password" : "1234567"
+    }
+  }
+}
